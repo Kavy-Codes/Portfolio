@@ -9,10 +9,10 @@
 - HTML | CSS | JavaScript | Tailwind | React
 - Git & GitHub | Figma | Godot | Linux
 
-## 📈 Currently Grinding
-- Full-stack web dev
-- Building personal apps
-- Exploring open-source projects
+## About me
+- Loves open-source
+- Loves Linux
+- Loves IoT and Electrical stuff also 
 
 ## 📫 Contact
 **Email** → kavyatiwari.dev@gmail.com  
